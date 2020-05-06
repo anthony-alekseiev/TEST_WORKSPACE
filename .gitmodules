@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:anthony-alekseiev/TEST-APP.git
+[submodule "multi-api"]
+	path = multi-api
+	url = git@github.com:anthony-alekseiev/TEST-API.git
